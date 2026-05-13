@@ -1,0 +1,61 @@
+---
+id: T50
+name: Workshops
+source: BABOK v3 §10.50
+status: SKELETON
+category: Elicitation / Group
+used_by_KAs: [KA1,KA2,KA4]
+used_by_tasks: [4.1,4.2,4.3,4.4]
+---
+
+# T50 — Workshops
+
+## Purpose
+*(To be populated.)* Concise one-sentence statement of why a BA would reach for this technique. Refer to BABOK v3 §10.50 for the canonical wording.
+
+## Description
+*(To be populated.)* What the technique is, how it produces value, and where it sits relative to elicitation, analysis, modelling, or evaluation activities.
+
+## Elements
+*(To be populated.)* List the named sub-components per BABOK v3 §10.50.
+
+1. *Element 1*
+2. *Element 2*
+3. *Element 3*
+
+## How To Apply (procedure)
+*(To be populated.)* Step-by-step instructions with named techniques used as inputs and stop conditions.
+
+## Usage Considerations
+
+### Strengths
+- *(To be populated.)*
+
+### Limitations
+- *(To be populated.)*
+
+### Anti-patterns
+- *(To be populated.)*
+
+## BACCM Linkage
+*(To be populated.)* Identify which of the 6 concepts (Change, Need, Solution, Stakeholder, Value, Context) this technique directly serves and which it cannot serve on its own.
+
+| Concept     | Manifestation |
+| ----------- | ------------- |
+| Change      |               |
+| Need        |               |
+| Solution    |               |
+| Stakeholder |               |
+| Value       |               |
+| Context     |               |
+
+## Used By
+
+- **Knowledge Areas:** KA1,KA2,KA4
+- **Tasks:** 4.1,4.2,4.3,4.4
+
+## Related Techniques
+*(To be populated.)* Cross-reference other BABOK v3 techniques typically paired with this one.
+
+## Output Template
+*(To be populated.)* The canonical output shape this technique produces — for use as an input to other tasks.
