@@ -6,6 +6,18 @@ status: COMPLETE
 category: Requirements / Validation
 used_by_KAs: [KA5,KA6]
 used_by_tasks: [5.3,6.1]
+version: 1.1
+last_updated: 2026-05-16
+updated_by: phong.manh
+changelog:
+  - version: 1.0
+    date: 2026-05-16
+    author: phong.manh
+    note: Initial population from SKELETON — all sections completed per BABOK v3 §10.01
+  - version: 1.1
+    date: 2026-05-16
+    author: phong.manh
+    note: Added version tracking and changelog to frontmatter
 ---
 
 # T01 — Acceptance and Evaluation Criteria
