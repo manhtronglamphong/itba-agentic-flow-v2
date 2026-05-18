@@ -1,0 +1,44 @@
+{
+  "collapse-filter": true,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": true,
+  "colorGroups": [
+    {
+      "query": "[status: COMPLETE]",
+      "color": {
+        "a": 1,
+        "rgb": 5431380
+      }
+    },
+    {
+      "query": "[status: SKELETON]",
+      "color": {
+        "a": 1,
+        "rgb": 13704991
+      }
+    },
+    {
+      "query": "[status: FULLY_POPULATED]",
+      "color": {
+        "a": 1,
+        "rgb": 387051
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": true,
+  "centerStrength": 0.518713248970312,
+  "repelStrength": 10,
+  "linkStrength": 1,
+  "linkDistance": 250,
+  "scale": 0.9048883333115523,
+  "close": true
+}
